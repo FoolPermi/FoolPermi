@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FoolPermi
+- 👀 I’m interested in macOS/iOS develop
+- 🌱 I’m currently learning Swift
+- 💞️ I’m looking to collaborate on Github
+- 📫 How to reach me foolpermi@gmail.com
